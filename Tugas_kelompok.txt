@@ -1,0 +1,9 @@
+Tugas Kelompok :
+
+1. Buatlah kelompok max anggota 4 Orang dan min anggota 3 orang
+2. Buatlah Presentasti Terkait Github dan perintah apa saja yang dilakukan di dalam mengelola github
+3. Jelaskan setiap perintah yang anda temukan dan ketahui
+
+
+
+			=====Selamat Mengerjakan=====
